@@ -9,7 +9,7 @@ This is a beginner-friendly project created as a practice application while lear
 
 ## Features
 
-- Real-time messaging using WebSocket
+- Real time messaging using WebSocket
 - Simple chat UI built with Bootstrap
 - Messages are broadcast to all connected users instantly
 - Clean separation of backend and frontend files
