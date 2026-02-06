@@ -13,6 +13,7 @@ public class ChatController {
     @SendTo("/topic/message")
     public ChatMessage sendMessage(ChatMessage message){
 //        System.out.println("MESSAGES RECEIVED: "+message.getContent());
+        System.out.println("Message send");
         return message;
     }
 
