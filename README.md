@@ -1,6 +1,6 @@
-# Real-Time Chat Application (Spring Boot)
+# Real Time Chat Application (Spring Boot)
 
-This is a simple real-time chat application built using **Spring Boot WebSockets**.  
+This is a simple real time chat application built using **Spring Boot WebSockets**.  
 The main goal of this project was to understand how real-time communication works between a client and server using **STOMP** and **SockJS**.
 
 This project created as a practice application while learning Spring Boot.
